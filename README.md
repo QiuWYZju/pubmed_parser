@@ -1,4 +1,7 @@
-# Pubmed Parser: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset
+
+
+
+# 这是一个修正版本，后续将完善此内容Pubmed Parser: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/titipata/pubmed_parser/blob/master/LICENSE) [![DOI](https://joss.theoj.org/papers/10.21105/joss.01979/status.svg)](https://doi.org/10.21105/joss.01979)
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3660006.svg)](https://doi.org/10.5281/zenodo.3660006) [![Build Status](https://travis-ci.com/titipata/pubmed_parser.svg?branch=master)](https://travis-ci.com/titipata/pubmed_parser)
