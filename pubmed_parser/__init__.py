@@ -2,6 +2,8 @@
 Pubmed Parser: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset
 
 Author: Titipat Achakulvisut, Daniel E. Acuna
+__version__ = "1.5.1"
+__author__ = "qwy"
 """
 import sys
 
