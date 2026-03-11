@@ -62,10 +62,10 @@ docs = [
 ]
 
 [project.urls]
-homepage = "https://github.com/titipata/pubmed_parser"
-download = "https://github.com/titipata/pubmed_parser.git"
+homepage = "https://github.com/QiuWYZju/pubmed_parser"
+download = "https://github.com/QiuWYZju/pubmed_parser.git"
 documentation = "http://titipata.github.io/pubmed_parser"
-bug_tracker = "https://github.com/titipata/pubmed_parser/issues"
+bug_tracker = "https://github.com/QiuWYZju/pubmed_parser/issues"
 
 [tool.setuptools.package-data]
 "pubmed_parser.data" = ["*.xml.gz", "*.nxml", "*.txt"]
